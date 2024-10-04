@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+Registration form
+</head>
+<p>
+please fill the form for new account</p>
+<style>
+body{
+padding:5px 0;25px o;
+margin:25px;
+}
+<label>E-mail</label>
+<input type="text" placeholder="enter e-mail">
+<br>
+<label>password</label>
+<input type="text" placeholder="enter password">
+<br>
+<label>
+repeat password</label>
+<input type="text" placeholder="repeat password">
+<br>
+<button>
+<label>submit</label>
+<input type="text" placeholder="submit">
+<p> if you already have an account?<href="#">signin</a>
+</p>
+</button>
+<html>
